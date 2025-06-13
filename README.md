@@ -88,6 +88,22 @@ The dataset folder DataSet_STO
 Follow the same pipeline for feature extraction, filtering, PCA, clustering, and visualization.
 
 # Requirements
-Ensure all required Python libraries (e.g., tensorflow, numpy, scikit-learn, matplotlib, seaborn) are installed.
+All code was implemented using Python (v3.12.3). The Convolutional Variational Autoencoder (CVAE) model was developed using TensorFlow (v2.18.0) and Keras (v3.7.0). Core scientific computing libraries include:
 
-This workflow has been tested with Python 3.12.3, TensorFlow 2.18.0, scikit-learn 1.5.1, and Jupyter Notebook 6.5.7.
+NumPy (v2.3.0)
+
+SciPy (v1.15.3)
+
+scikit-learn (v1.5.1)
+
+Image processing and analysis were conducted using:
+
+OpenCV (v4.10.0.84)
+
+scikit-image (v0.25.0)
+
+Pillow (v10.4.0)
+
+All visualizations were generated using Matplotlib (v3.9.2).
+HDF5-based model saving/loading was handled via h5py (v3.11.0).
+Interactive development and execution were carried out using Jupyter Notebook (v6.5.7).
