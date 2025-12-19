@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: defect-classification-in-stem-images
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: R. A. W.
+    family-names: Ayyubi
+    email: ayyubi.qau@gmail.com
+    affiliation: 'University of Illinois at Chicago, Chicago, IL, U.S.A'
+    orcid: 'https://orcid.org/0000-0002-9887-6822'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/RAW-Ayyubi/defect-classification-in-stem-images
+abstract: |-
+  Electron Microscopy
+  Convolutional variational autoencoder
