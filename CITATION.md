@@ -1,8 +1,8 @@
+# Citation Details
 The work associated with this code repository has been published as a research article.
-
 If you use this code, or if it contributes to your research or studies, please cite our work.
 
-**Article details:**
+# **Article details:**
 
 Ayyubi, R.A.W., Sultanov, S., Buban, J.P. et al. 
 Unsupervised defect clustering in atomic-resolution microscopy using a convolutional variational autoencoder. 
